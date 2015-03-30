@@ -1,3 +1,15 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Mostly when working on the same project from different computers and/or when multiple persons work on the same project.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used when you want to clone a repository from GitHub to GitHub. Clone can be used when you want to copy a repository both from GitHub or from a local address. Branch is used localy to create a new direction (branch).
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you go offline and want to do some modifications to the project it is best to have a fresh copy of the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub one can collaborate by manual saving or using other VS programs and either sending the files manually or via online Cloud applications to share the files.
